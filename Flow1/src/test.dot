@@ -1,0 +1,8 @@
+graph d{
+	node [shape=box]
+	1 [label="label"]
+	2[shape=circle
+		label="ddd"
+	]
+	1--2
+}
