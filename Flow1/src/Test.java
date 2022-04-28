@@ -127,7 +127,7 @@ public class Test extends Canvas {
     }    
     
     public static void main(String[] args) throws FileNotFoundException {
-    	File dir = new File("I:\\Eclipse\\JavaApplication2\\New Folder");
+    	File dir = new File("I:\\KLTN\\Script");
         File[] children = dir.listFiles();int xx=0;
         
         for (File file : children) {

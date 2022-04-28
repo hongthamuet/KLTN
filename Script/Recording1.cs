@@ -90,7 +90,7 @@ namespace ZINGID
             Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'ApplicationUnderTest.Submit' at 77;29.", repo.ApplicationUnderTest.SubmitInfo, new RecordItemIndex(2));
             repo.ApplicationUnderTest.Submit.Click("77;29");
             Delay.Milliseconds(0);
-            
+
         }
 
 #region Image Feature Data

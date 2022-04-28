@@ -116,7 +116,7 @@ public class Test extends Canvas {
     }    
     
     public static void main(String[] args) throws IOException, FileNotFoundException {
-    	File dir = new File("D:\\Documents\\Code\\Java\\JavaApplication2\\Records2");
+    	File dir = new File("I:\\KLTN\\Script");
         File[] children = dir.listFiles();
         
         v.add(begin);v.add(end);

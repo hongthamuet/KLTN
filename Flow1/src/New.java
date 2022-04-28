@@ -17,7 +17,7 @@ public class New {
 //        String pre=null,metpre=null;  
 //        List<String> lst=new ArrayList<String>();
         
-        File dir = new File("I:\\Eclipse\\JavaApplication2\\Records");
+        File dir = new File("I:\\KLTN\\Script");
         File[] children = dir.listFiles();
         for (File file : children) {
 //            System.out.println(file.getAbsolutePath());
